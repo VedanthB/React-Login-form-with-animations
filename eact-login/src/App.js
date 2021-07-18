@@ -1,6 +1,6 @@
 import './App.css';
 import styled from "styled-components";
-import { AccountBox } from './components/accountBox';
+import { AccountBox } from './components/accountBox/index.jsx';
 
 const AppContainer = styled.div`
  width: 100%;
